@@ -5,3 +5,7 @@ for fruit in fruits:
 veggies = ["Pickles", "Onions", "Carrot"]
 for veggie in veggies:
     print(veggie)
+
+meats = ["beef", "pork", "fish"]
+for meat in meats:
+    print(meat)
